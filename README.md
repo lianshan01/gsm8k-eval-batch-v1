@@ -36,7 +36,7 @@ use the Chain of Thought prompt "Let's think step by step." before answering the
 
 ## zero-shot
 
-`python eval_gsmk_zero_shot.py --model <model_name> --zero-shot`
+`python eval_gsm8k.py --model <model_name> --zero-shot`
 
 | Model           | Accuracy |
 |-----------------|----------|
