@@ -1,0 +1,7 @@
+Loading model and tokenizer...
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.63s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.14s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:02<00:00,  1.21s/it]
+
+Loading dataset...
+gsm8k test size: 1319
+Accuracy: 557 / 1319 = 0.4223
+Results saved to eval_results/few_shot/llama3_results.json
