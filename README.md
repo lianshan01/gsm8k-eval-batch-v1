@@ -10,7 +10,7 @@ The 8-shot prompt is from the [lm-evaluation-harness gsm8k-cot](https://github.c
 | Model           | Accuracy | Harness Accuracy |
 |-----------------|----------|------------------|
 | Mistral-7B-v0.1 | 
-| Llama-2-7b-hf   |      
+| Llama-3-8b-hf   |   0.43
 
 ### 8-shot maj1@8
 
